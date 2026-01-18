@@ -277,6 +277,7 @@ Bu doküman;
 - AI içerik üreticisi
 - İş ortakları
 
+=> Ayrıca biz kaynak da temin ediyoruz bunu da ekleyelim, kaynak temin ettiğimiz yani sayfaya
 için **tek referans mimari belgedir**.
 
 Tüm kararlar **bilinçli, ölçeklenebilir ve AI-first** olarak alınmıştır.
